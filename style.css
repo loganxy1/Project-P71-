@@ -1,0 +1,117 @@
+body {
+    background-color: gold;
+}
+
+#marqueeStyle {
+    background-color: maroon;
+    color: gold;
+}
+
+h2 {
+    color: maroon;
+}
+
+h3 {
+    color: maroon;
+}
+
+h4 {
+    color: maroon;
+}
+
+h5 {
+    color: maroon;
+    font-size: 35px;
+}
+
+h6 {
+    color: maroon;
+    font-size: 20px;
+}
+
+h7 {
+    color: maroon;
+    font-size: 20px;
+}
+
+
+#contactUs {
+    color: maroon;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+movie text span {
+    color: maroon;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+p {
+    color: maroon;
+}
+
+#img {
+    height: 500px;
+    width: 1200px;
+}
+
+h8 {
+    font-size: 35px;
+}
+
+h10 {
+    font-size: 35px;
+}
+
+h13 {
+    font-size: 35px;
+}
+
+#img1 {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+h11 {
+    font-size: 20px;
+}
+
+h12 {
+    font-size: 20px;
+}
+
+#footer {
+    height: 20px;
+    background-color: gold;
+}
+
+#prez {
+    height: 250;
+    width: 250;
+}
+
+.modal {
+    position: fixed;
+    top: auto;
+    right: auto;
+    left: auto;
+    bottom: 0;
+}
